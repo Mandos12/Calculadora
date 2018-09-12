@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppCalculadora</string>
+    <string name="numero_dos">Numero Dos</string>
+    <string name="numero_uno">Numero Uno</string>
+    <string name="btn_sumar">Sumar</string>
+    <string name="btn_restar">Restar</string>
+    <string name="btn_dividir">Dividir</string>
+    <string name="btn_multiplicar">Multiplicar</string>
+    <string name="txt_resultado">Resultado</string>
+    <string name="btn_lim_cam">Limpiar Campos</string>
+</resources>
